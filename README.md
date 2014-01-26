@@ -1,0 +1,4 @@
+sysdict
+=======
+
+Simple Technical Dictionary
